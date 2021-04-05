@@ -1,1 +1,29 @@
-
+h1 {
+    color: blue;
+    text-align: center;
+}
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+  }
+ul {
+    color: coral;
+    line-height: 35px;
+    font-size: small;
+    font-family: fantasy;
+  }
+  ol{
+    color: cornflowerblue;
+    line-height: normal;
+    font-size: medium;
+    font-style: inherit;
+    font-family: sans-serif;
+  }
+  body{
+    background-color: lemonchiffon;
+  }
+  img {
+    float: right;
+    width: 200px;
+  }
+  
